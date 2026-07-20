@@ -64,5 +64,3 @@ This preprocessing improves visual quality while preserving anatomical structure
 
 
 ## License
-
-This project is released under the MIT License.
